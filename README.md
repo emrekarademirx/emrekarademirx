@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @emrekarademirx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Merhaba! Ben Emre Karademir 👋
 
-<!---
-emrekarademirx/emrekarademirx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Programlama dünyasına adım atmış bir yazılım geliştiriciyim. Tüm programlama dillerinde kendimi geliştirmeye çalışıyorum ve yazdığım kodların güzel ve düzenli olmasına özen gösteriyorum.
+
+## Hakkımda
+
+- Adım: Emre Karademir
+- İlgi alanlarım: Yazılım geliştirme, programlama dilleri
+- Şu anda öğreniyorum: [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- İş birliği yapmak istediğim konular: Açık kaynaklı projeler, web geliştirme
+
+## İletişim
+
+- LinkedIn: [Emre Karademir](https://www.linkedin.com/in/emrekarademir/)
+- E-posta: [info@emrekarademir.com](mailto:info@emrekarademir.com)
+
+Görüşmek üzere! 👋
