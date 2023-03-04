@@ -12,6 +12,6 @@ Programlama dünyasına adım atmış bir yazılım geliştiriciyim. Tüm progra
 ## İletişim
 
 - LinkedIn: [Emre Karademir](https://www.linkedin.com/in/emrekarademir/)
-- E-posta: [info@emrekarademir.com](mailto:info@emrekarademir.com)
+- E-posta: [social@emrekarademir.com](mailto:social@emrekarademir.com)
 
 Görüşmek üzere! 👋
